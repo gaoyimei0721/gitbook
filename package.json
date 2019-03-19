@@ -1,0 +1,22 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "在线电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoyimei0721/gitbook.git"
+  },
+  "author": "gaoyimei0721",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaoyimei0721/gitbook/issues"
+  },
+  "homepage": "https://github.com/gaoyimei0721/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
